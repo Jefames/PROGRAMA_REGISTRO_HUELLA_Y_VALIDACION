@@ -1,0 +1,17 @@
+C:\Users\James\Desktop\fingerprint\FingerprintApp\bin\Debug\net8.0\FingerprintApp.exe
+C:\Users\James\Desktop\fingerprint\FingerprintApp\bin\Debug\net8.0\FingerprintApp.deps.json
+C:\Users\James\Desktop\fingerprint\FingerprintApp\bin\Debug\net8.0\FingerprintApp.runtimeconfig.json
+C:\Users\James\Desktop\fingerprint\FingerprintApp\bin\Debug\net8.0\FingerprintApp.dll
+C:\Users\James\Desktop\fingerprint\FingerprintApp\bin\Debug\net8.0\FingerprintApp.pdb
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.AssemblyInfo.cs
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.dll
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\refint\FingerprintApp.dll
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.pdb
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.genruntimeconfig.cache
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\ref\FingerprintApp.dll
+C:\Users\James\Desktop\fingerprint\FingerprintApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\FingerprintApp.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\fingerprint\FingerprintApp\obj\Debug\net8.0\Fingerpr.977B6747.Up2Date

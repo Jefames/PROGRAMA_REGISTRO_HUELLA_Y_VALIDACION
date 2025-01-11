@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vx2rLt8Kk8s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Desktop\\fingerprint\\FingerprintApp\\FingerprintApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
